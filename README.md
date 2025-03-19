@@ -1,4 +1,4 @@
-# PrivateCloud
+# PCS: Private Cloud Services
 
   As aplicações tradicionais, de instalação local, estão a dar lugar a serviços disponibilizados através da Internet ("Anythingas-a-Service"). Estes serviços, também conhecidos como serviços na Nuvem (Cloud), trazem vantagens para os utilizadores na medida em que o abstraem completamente da sua instalação, configuração e manutenção. Ao mesmo tempo, otimizam a utilização dos recursos, que são normalmente partilhados entre vários utilizadores e alocados mediante as suas necessidades. No entanto, as soluções na Nuvem também apresentam desafios, no que diz respeito à localização da informação (não se encontra sob o controlo dos utilizadores), e da velocidade de acesso aos serviços (os serviços podem encontrar-se a centenas ou milhares de quilómetros, com o respetivo impacto nas comunicações).
   Para tirar partido das vantagens dos serviços na Nuvem, e ao mesmo tempo colmatar os seus desafios, surge a hipótese de criar uma Nuvem privada (Private Cloud), onde a infraestrutura é alojada num local privado, restrito a uma entidade e aos seus colaboradores.
