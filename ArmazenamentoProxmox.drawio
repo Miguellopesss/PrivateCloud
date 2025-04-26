@@ -1105,7 +1105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9Zp_dyvC6JUzYm1fQHAQ" name="Página-7">
-    <mxGraphModel dx="1500" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1127,7 +1127,7 @@
         <mxCell id="o-Z2IsdlrudQwzY04xvz-6" value="&lt;span&gt;OSD 3&lt;/span&gt;&lt;div&gt;&lt;span&gt;500GB&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="429.5" y="356" width="68" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-Z2IsdlrudQwzY04xvz-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="o-Z2IsdlrudQwzY04xvz-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" parent="1" vertex="1">
           <mxGeometry x="538.5" y="310" width="30" height="44" as="geometry" />
         </mxCell>
         <mxCell id="o-Z2IsdlrudQwzY04xvz-8" value="&lt;span&gt;OSD 4&lt;/span&gt;&lt;div&gt;&lt;span&gt;500GB&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1" parent="1" vertex="1">
@@ -1280,7 +1280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JkvP1t4nr2b5DI7JXgor" name="Página-8">
-    <mxGraphModel dx="1667" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1366,7 +1366,7 @@
           <mxGeometry x="223.5" y="324" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YmeE1nKw8g0d2tJsTouu-26" value="&lt;b&gt;nº replicas -&amp;gt;3&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;nº mín. replicas -&amp;gt; 2&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="238.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="588" y="400" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YmeE1nKw8g0d2tJsTouu-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" source="YmeE1nKw8g0d2tJsTouu-5" target="YmeE1nKw8g0d2tJsTouu-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1567,7 +1567,7 @@
           <mxGeometry x="243.5" y="90" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpqDRZ3a5hMwRtTzw9F7-1" value="&lt;b&gt;Legenda&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="284" width="230" height="70" as="geometry">
+          <mxGeometry x="543" y="445.5" width="230" height="70" as="geometry">
             <mxRectangle x="50" y="515" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
