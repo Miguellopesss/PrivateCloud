@@ -1,0 +1,57 @@
+Introdução
+	
+	Enquadramento (explicar a necessidade desta solução)
+	Motivações
+	Objetivos dos projeto (estudar, desenvolver e avaliar, testar, propor)
+	Contribuições
+	Estrutura do relatório
+
+
+Estado da arte
+	Background (conceitos)
+	Hipervisores
+		Comparação dos hipervisores	
+		Tipos de armazenamento
+		Escolha do Proxmox (justificações)
+		
+	Tipos de Armazenamento do Proxmox
+
+	Monitorização (testes, métricas) Grafana influx telegraf prometheus
+
+	Soluções existentes (private cloud)
+
+
+Propor (Private Cloud Services)
+	Requisitos (tabela) Problemas comuns
+	Módulos (armazenamento, alimentação, rede, nós)
+	Arquitetura
+
+
+Implementação
+	
+
+Testes 
+
+
+Estudo e especificação para Private cloud
+
+
+Conclusões
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+				
